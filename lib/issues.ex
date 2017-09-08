@@ -3,16 +3,7 @@ defmodule Issues do
   Documentation for Issues.
   """
 
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> Issues.hello
-      :world
-
-  """
-  def hello do
-    :world
+  def the_truth do
+    true
   end
 end

@@ -1,6 +1,10 @@
 # Issues
 
-**TODO: Add description**
+Show issues from a GitHub repository in the terminal:
+
+```
+./issues <user> <project> [ count | #{@default_count}]
+```
 
 ## Installation
 
